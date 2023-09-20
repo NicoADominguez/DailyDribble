@@ -4,4 +4,4 @@ Hello :)
 
 This is my first solo project on Scrimba on my path to becoming a web developer. Hopefully future me will see this project and laugh!
 
-live preview: https://dailydribblenewsletter.netlify.app/
+<a href="https://dailydribblenewsletter.netlify.app/">live preview</a>
